@@ -50,5 +50,6 @@ function timer(id, deadline) {
 
     setClock(id, deadline);
 }
+// dont forget to change time :)
 
 export default timer;
