@@ -49,4 +49,7 @@ function cards() {
         });
 }
 
+// cards comming from server :)
+// dont forget to install node.js
+
 export default cards;
